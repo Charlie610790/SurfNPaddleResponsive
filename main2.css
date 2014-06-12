@@ -1,0 +1,350 @@
+html * {
+	vertical-align: top;
+}
+body {
+	margin: 0px;
+    padding: 0px;
+}
+h3 {
+	font-family: Oswald;
+	font-size: 60px;
+	padding-left: 170px;
+	margin-bottom: 10px;
+	color: #083452;
+	line-height: 70px;
+	letter-spacing: 0.5px;
+}
+h1 {
+	margin-top: 180px;
+	font-family: Oswald;
+	font-size: 85px;
+	text-align: center;
+	color: white;
+	min-width: 960px;
+	letter-spacing: 15px;
+	text-shadow: 2px 2px #083452;
+}
+h2 {
+	font-family: Asap;
+	min-width: 960px;
+	font-size: 15px;
+	text-align: center;
+	color: black;
+	margin-top: -68px;
+}
+h4 {
+	font-family: Oswald;
+	font-size: 62px;
+	padding-top: 15px;
+	min-width: 960px;
+	margin-bottom: 30px;
+	margin-top: 0px;
+	text-align: center;
+	color: #083452;
+}
+.header {
+	background-image: url("images/waves.jpg");
+	margin: 0px auto;
+	font-size: 18px;
+	min-width: 960px;
+	height:524px;
+
+}
+.logo {
+	float: left;
+	padding-left: 20px;
+	font-size: 18px;
+	letter-spacing: -1px;
+	font-family: Asap;
+	padding-top: 25px;
+	border-color: red;
+	border: 5px;
+}
+.logoimage {
+	float: left;
+	padding-left: 125px;
+	padding-top: 15px;
+}
+.aboutsearch {
+	display: inline-block;
+	float: right;
+	padding-right: 130px;
+	font-size: 18px;
+	font-family: Asap;
+	padding-top: 20px;
+	border: 5px;
+	border-color: red;
+}
+.main-container {
+	width: 1380px;
+	margin: 0 auto;
+}
+.leftbar {
+	display: inline-block;
+	font-family: Asap;
+	width: 770px;
+	padding-bottom: 0px;
+	margin-right: 50px;
+}
+.paragraph1{
+	font-family: Asap;
+	font-size: 16px;
+	margin-left: 170px;
+	line-height: 26px;
+	margin-bottom: -4px;
+}
+.paragraph2 {
+	font-family: Asap;
+	font-size: 16px;
+	line-height: 26px;
+	margin-left: 170px;
+	margin-bottom: -4px;
+}
+.userpicsmall{
+	font-size: 15px;
+	display: inline-block;
+	height: 45px;
+	margin-top: -5px;
+	margin-bottom: 1px;
+	margin-left: 170px;
+}
+.userinfosmall{
+	font-size: 13px;
+	display: inline-block;
+	height: 50px;
+	margin-top: 0px;
+	margin-left: 2px;
+	margin-bottom: 1px;
+}
+.userinfo{
+	font-size: 15px;
+	margin: 0px auto;
+	font-family: Asap;
+	display: inline-block;
+	height: 50px;
+}
+.buttons {
+	display: inline-block;
+}
+.button1 {
+	background-image: url("images/readcomments.jpg");
+	width: 158px;
+	height: 30px;
+	display: inline-block;
+}
+.button1:hover {
+	background-image: url("images/readcomments-hover.jpg");
+}
+.button2 {
+	background-image: url("images/readlater.jpg");
+	width: 128px;
+	display: inline-block;
+	height: 30px;
+}
+.button2:hover {
+	background-image: url("images/readlater-hover.jpg");
+}
+.button3 {
+	background-image: url("images/sharethispost.jpg");
+	width: 154px;
+	height: 30px;
+	display: inline-block;
+}
+.button3:hover {
+	background-image: url("images/sharethispost-hover.jpg");
+}
+.sidebarlink{
+	padding-bottom: 35px;
+	font-family: Asap;
+	font-size: 14px;
+	color: #cbd4db;
+}
+.sidebarname {
+	font-size: 18px;
+	padding-bottom: 2px;
+	margin-top: -6px;
+}
+.sidebarsection {
+	color: #819FF7;
+	font-family: Oswald;
+	font-size: 18px;
+	text-align: left;
+	padding-bottom: 4px;
+}
+.sidebarinfo {
+	color: #A4A4A4;
+	font-family: Asap;
+	font-size: 15px;
+	line-height: 24px;
+	text-align: left;
+	width: 278px;
+}
+.rightbar {
+	display: inline-block;
+	text-align: center;
+	border: 1px;
+	font-family: Asap;
+	padding-left: 20px;
+	padding-top: 82px;
+	display: inline-block;
+}
+.aboutthisad {
+	font-size: 14px;
+	color: #A4A4A4;
+	text-align: right;
+	margin-bottom: 45px;
+}
+.paddle {
+	margin-bottom: 8px;
+	width: 277px;
+	height: 300px;	
+}
+.woah {
+	font-size: 28px;
+	border-left-style: solid;
+	border-color: #A4A4A4;
+	height: 35px;
+	color: #106db3;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 170px;
+	margin-top: 30px;
+	margin-bottom: 23px;
+}
+.hr {
+	padding-top: 64px;
+}
+.footer {
+	margin: 0px auto;
+	min-width: 960px;
+}
+
+.footer div:hover {
+	color: white;
+}
+
+.footer-container {
+	margin: 0px auto;
+	height: 450px;
+}
+.footer1{
+	float: right;
+	background-image: url("images/bar-hover.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
+.footer1:hover{
+	float: right;
+	background-image: url("images/bar.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
+.footer1text {
+	width: 325px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-top: 275px;
+	padding-left: 15px;
+	text-align: left;
+	color: #083452;
+}
+.footer2 {
+	float: right;
+	background-image: url("images/zac-hover.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
+.footer2:hover {
+	float: right;
+	background-image: url("images/zac.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
+.footer2text {
+	width: 325px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-top: 230px;
+	padding-left: 15px;
+	text-align: left;
+	color: #083452;
+}
+.footer3 {
+	float: right;
+	background-image: url("images/beer-hover.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
+.footer3:hover {
+	float: right;
+	background-image: url("images/beer.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
+.footer3text {
+	width: 325px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-top: 275px;
+	padding-left: 15px;
+	text-align: left;
+	color: #083452;
+}
+.footer4 {
+	float: right;
+	background-image: url("images/surfer-hover.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+}
+.footer4:hover {
+	float: right;
+	background-image: url("images/surfer.jpg");
+	background-size:cover;
+	width: 25%;
+	height: 330px;
+	
+}
+.footer4text {
+	width: 325px;
+	font-family: Oswald;
+	font-size: 30px;
+	margin-top: 275px;
+	padding-left: 15px;
+	text-align: left;
+	color: #083452;	
+}
+.bottomfooter {
+	background-color: #083452;
+	margin: 0px auto;
+	font-size: 13px;
+	height:100px;
+}
+.bottomleft {
+	float: left;
+	padding-left: 0px;
+	font-size: 14px;
+	font-family: Asap;
+	padding-top: 40px;
+	color: #a3b3bf;
+}
+.bottomright {
+	float: right;
+	color: #a3b3bf;
+	padding-right: 150px;
+	font-size: 14px;
+	font-family: Asap;
+	padding-top: 40px;
+}
+.ironyard {
+	display: inline-block;
+	padding-top: 15px;
+	float: left;
+	padding-left: 150px;
+}
