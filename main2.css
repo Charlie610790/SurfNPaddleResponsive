@@ -7,21 +7,21 @@ body {
 }
 h3 {
 	font-family: Oswald;
-	font-size: 60px;
+	font-size: 3.750em;
 	padding-left: 170px;
 	margin-bottom: 10px;
 	color: #083452;
 	line-height: 70px;
-	letter-spacing: 0.5px;
+	letter-spacing: 0.5;
 }
 h1 {
 	margin-top: 180px;
 	font-family: Oswald;
-	font-size: 85px;
+	font-size: 5.313em;
 	text-align: center;
 	color: white;
 	min-width: 960px;
-	letter-spacing: 15px;
+	letter-spacing: 15;
 	text-shadow: 2px 2px #083452;
 }
 h2 {
@@ -34,7 +34,7 @@ h2 {
 }
 h4 {
 	font-family: Oswald;
-	font-size: 62px;
+	font-size: 3.875em;
 	padding-top: 15px;
 	min-width: 960px;
 	margin-bottom: 30px;
@@ -45,15 +45,15 @@ h4 {
 .header {
 	background-image: url("images/waves.jpg");
 	margin: 0px auto;
-	font-size: 18px;
+	font-size: 1.125em;
 	min-width: 960px;
-	height:524px;
+	height: 524px;
 
 }
 .logo {
 	float: left;
 	padding-left: 20px;
-	font-size: 18px;
+	font-size: 1.125em;
 	letter-spacing: -1px;
 	font-family: Asap;
 	padding-top: 25px;
@@ -69,7 +69,7 @@ h4 {
 	display: inline-block;
 	float: right;
 	padding-right: 130px;
-	font-size: 18px;
+	font-size: 1.125em;
 	font-family: Asap;
 	padding-top: 20px;
 	border: 5px;
@@ -95,13 +95,13 @@ h4 {
 }
 .paragraph2 {
 	font-family: Asap;
-	font-size: 16px;
+	font-size: 1.000em;
 	line-height: 26px;
 	margin-left: 170px;
 	margin-bottom: -4px;
 }
 .userpicsmall{
-	font-size: 15px;
+	font-size: 0.938em;
 	display: inline-block;
 	height: 45px;
 	margin-top: -5px;
@@ -109,7 +109,7 @@ h4 {
 	margin-left: 170px;
 }
 .userinfosmall{
-	font-size: 13px;
+	font-size: 0.813em;
 	display: inline-block;
 	height: 50px;
 	margin-top: 0px;
@@ -117,7 +117,7 @@ h4 {
 	margin-bottom: 1px;
 }
 .userinfo{
-	font-size: 15px;
+	font-size: 0.938em;
 	margin: 0px auto;
 	font-family: Asap;
 	display: inline-block;
@@ -156,26 +156,26 @@ h4 {
 .sidebarlink{
 	padding-bottom: 35px;
 	font-family: Asap;
-	font-size: 14px;
+	font-size: 0.875em;
 	color: #cbd4db;
 }
 .sidebarname {
-	font-size: 18px;
+	font-size: 1.125em;
 	padding-bottom: 2px;
 	margin-top: -6px;
 }
 .sidebarsection {
 	color: #819FF7;
 	font-family: Oswald;
-	font-size: 18px;
+	font-size: 1.125em;
 	text-align: left;
 	padding-bottom: 4px;
 }
 .sidebarinfo {
 	color: #A4A4A4;
 	font-family: Asap;
-	font-size: 15px;
-	line-height: 24px;
+	font-size: 0.938em;
+	line-height: 24p;
 	text-align: left;
 	width: 278px;
 }
@@ -189,7 +189,7 @@ h4 {
 	display: inline-block;
 }
 .aboutthisad {
-	font-size: 14px;
+	font-size: 0.875em;
 	color: #A4A4A4;
 	text-align: right;
 	margin-bottom: 45px;
@@ -200,7 +200,7 @@ h4 {
 	height: 300px;	
 }
 .woah {
-	font-size: 28px;
+	font-size: 1.750em;
 	border-left-style: solid;
 	border-color: #A4A4A4;
 	height: 35px;
@@ -267,7 +267,7 @@ h4 {
 .footer2text {
 	width: 325px;
 	font-family: Oswald;
-	font-size: 30px;
+	font-size: 1.875em;
 	margin-top: 230px;
 	padding-left: 15px;
 	text-align: left;
@@ -290,7 +290,7 @@ h4 {
 .footer3text {
 	width: 325px;
 	font-family: Oswald;
-	font-size: 30px;
+	font-size: 1.875em;
 	margin-top: 275px;
 	padding-left: 15px;
 	text-align: left;
@@ -314,7 +314,7 @@ h4 {
 .footer4text {
 	width: 325px;
 	font-family: Oswald;
-	font-size: 30px;
+	font-size: 1.875em;
 	margin-top: 275px;
 	padding-left: 15px;
 	text-align: left;
@@ -323,13 +323,13 @@ h4 {
 .bottomfooter {
 	background-color: #083452;
 	margin: 0px auto;
-	font-size: 13px;
+	font-size: 0.813em;
 	height:100px;
 }
 .bottomleft {
 	float: left;
 	padding-left: 0px;
-	font-size: 14px;
+	font-size: 0.875em;
 	font-family: Asap;
 	padding-top: 40px;
 	color: #a3b3bf;
@@ -338,13 +338,13 @@ h4 {
 	float: right;
 	color: #a3b3bf;
 	padding-right: 150px;
-	font-size: 14px;
+	font-size: 0.875em;
 	font-family: Asap;
 	padding-top: 40px;
 }
 .ironyard {
 	display: inline-block;
-	padding-top: 15px;
+	padding-top: 0.938em;
 	float: left;
 	padding-left: 150px;
 }
